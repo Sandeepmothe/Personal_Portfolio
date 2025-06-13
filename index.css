@@ -136,6 +136,7 @@ a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     gap: 0.5rem;
 }
 
@@ -220,7 +221,7 @@ a:hover{
     gap: 2rem;
 }
 .project-container{
-    width: 450px;
+    width: 350px;
     height: 350px;
     display: flex;
     flex-direction: column;
@@ -330,6 +331,14 @@ button:hover{
     }
     .project-container{
         min-height: 0;
-        max-width: 400px;
+        max-width: 350px;
+    }
+    .arrow, .arrow1{
+        display: none;
+    }
+    .footer-nav{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
     }
 }
