@@ -4,7 +4,7 @@ A responsive and interactive portfolio website showcasing my projects, skills, a
 
 ## 📸 Live Demo
 
-[View Live Site](https://sandeepmothe.github.io/My_Portfolio/))
+[View Live Site](https://sandeepmothe.github.io/Personal_Portfolio/))
 
 ---
 
